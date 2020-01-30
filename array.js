@@ -163,11 +163,11 @@ var someMethod = a => a > 40;
 console.log(o.some(someMethod));
 
 //26.slice
-// i/p - array o/p - array
+// i/p - number o/p - array
 var o = [10, 20, 30, 40, 50];
 console.log(o.slice(0, 3));
 //27.slice
-// i/p - array o/p - array
+// i/p - number o/p - array
 console.log(o.splice(0, 3));
 
 // 28.toString
