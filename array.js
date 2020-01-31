@@ -155,7 +155,7 @@ console.log(n.reverse());
 //24.sort
 // i/p -array o/p -array
 var o = [10, 20, 30, 40, 50];
-console.log(o.reverse());
+console.log(o.sort());
 
 //25.some
 // i /p -array o/p - boolean
